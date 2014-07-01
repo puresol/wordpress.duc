@@ -9,8 +9,9 @@ Author URI: http://facebook.com/socthaovat
 */
 
 add_action('admin_menu', 'works_admin_actions');
+
 function works_admin_actions(){
-	add_options_page('WorksPlugin', 'WorksPlugin', 'manage_options', __FILE__, 'works_admin');
+	add_menu_page('WorksPlugin', 'WorksPlugin', 'administrator', __FILE__, 'works_admin');
 }
 
 function works_admin(){
