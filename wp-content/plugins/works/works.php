@@ -17,7 +17,7 @@ function works_admin_actions(){
 function works_admin(){
 ?>
 	<div class="wrap">
-		<h4>The first Wordpress Plugin</h4>
+		<h4>The first Wordpress Plugin: Works</h4>
 		<table class="widefat">
 			<thead>
 				<tr>
