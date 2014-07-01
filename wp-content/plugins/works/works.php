@@ -3,7 +3,7 @@
 Plugin Name: Pure Works
 Plugin URI: http://ductincomputer.com
 Description: My first plugin.
-Version: 1.0
+Version: 1.2
 Author: Peter Nguyen
 Author URI: http://facebook.com/socthaovat
 */
